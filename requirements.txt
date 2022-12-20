@@ -2,3 +2,4 @@ telebot
 requests
 pytest
 pytest_mock
+pyTelegramBotAPI
